@@ -1,0 +1,5 @@
+{
+    "appID": "your_app_id",
+    "appKey": "your_app_key",
+    "tmpDir": "./"
+}

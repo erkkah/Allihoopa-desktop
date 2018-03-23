@@ -1,0 +1,11 @@
+{
+    "stems": {
+        "mixStemURL": "file:///testljeud.wav"
+    },
+    "presentation": {
+        "title": "Minimal drop from the SDK"
+    },
+    "musicalMetadata": {
+        "lengthMicroseconds": 5217392
+    }
+}

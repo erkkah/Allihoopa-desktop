@@ -1,0 +1,44 @@
+{
+    "stems": {
+        "mixStemURL": "file:///testljeud.wav"
+    },
+    "presentation": {
+        "title": "Minimal drop from the SDK",
+        "previewURL": "file:///testljeud.wav",
+        "coverImageURL": "file:///testcover.jpg"
+    },
+    "attribution": {
+        "basedOnPieces": [
+            "pieceID_A", "pieceID_B"
+        ]
+    },
+    "musicalMetadata": {
+        "lengthMicroseconds": 5217392,
+        "tempo": {
+            "fixed": 92.0
+        },
+        "loop": {
+            "startMicroSeconds": 0,
+            "endMicroSeconds": 5217392
+        },
+        "timeSignature": {
+            "fixed": {
+                "upper": 4,
+                "lower": 4
+            }
+        },
+        "tonality": {
+            "mode": "TONAL",
+            "scale": [
+                true, false,  true, false,  true,  true, false,  true, false,  true, false,  true
+            ],
+            "root": 9
+        }
+    },
+    "attachments": [
+        {
+            "mimeType": "application/x-weird",
+            "dataURL": "url/to/attachment/data"
+        }
+    ]
+}
